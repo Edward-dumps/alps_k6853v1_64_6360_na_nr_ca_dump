@@ -1,0 +1,4 @@
+service GoogleOtaAgent /system/bin/GoogleOtaBinder
+    class main
+    user root
+    group root

@@ -1,0 +1,29 @@
+service logd-adjust /system/bin/logd --logmuch
+    oneshot
+    disabled
+    user logd
+    group logd
+
+service logd-loglevel /system/bin/logd --loglevel
+    oneshot
+    disabled
+    user logd
+    group logd
+
+on load_persist_props_action
+    start logd-adjust
+
+on property:vold.decrypt=trigger_load_persist_props
+    start logd-adjust
+
+on property:persist.vendor.logmuch=*
+    start logd-adjust
+
+on property:vendor.logmuch.value=*
+    start logd-adjust
+
+on property:vendor.logmuch.delay=*
+    start logd-adjust
+
+on property:sys.boot_completed=1
+    start logd-loglevel

@@ -1,0 +1,6 @@
+com.mediatek.dataprotection
+com.mediatek.security.NetworkDataController
+com.mediatek.security.service.NetworkDataControllerService
+com.mediatek.autobootcontroller
+com.android.permissioncontroller.MtkPermissionController
+com.mediatek.PrivacyProtectionLock

@@ -1,0 +1,5 @@
+ro.boot.product.hardware.sku=ss
+ro.mediatek.rsc_name=naop_rcs
+ro.sys.current_rsc_path=/system/etc/rsc/naop_rcs
+ro.product.current_rsc_path=/product/etc/rsc/naop_rcs
+ro.sys_ext.current_rsc_path=/system/system_ext/etc/rsc/naop_rcs

@@ -1,0 +1,5 @@
+ro.boot.product.hardware.sku=ss
+ro.mediatek.rsc_name=op17
+ro.sys.current_rsc_path=/system/etc/rsc/op17
+ro.product.current_rsc_path=/product/etc/rsc/op17
+ro.sys_ext.current_rsc_path=/system/system_ext/etc/rsc/op17

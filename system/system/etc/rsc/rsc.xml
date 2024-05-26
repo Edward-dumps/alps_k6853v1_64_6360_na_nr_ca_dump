@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<runtime_switchable_config type="final" version="1">
+	<magic>0x5253434D</magic>
+	<part_info>
+		<name>para</name>
+		<offset>0x50000</offset>
+	</part_info>
+	<proj_info>
+		<proj_item index="0">
+			<name>default</name>
+			<operator>NONE</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>naop_4m</name>
+			<operator>OP08_SPEC0200_SEGDEFAULT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>naop_4m_nr</name>
+			<operator>OP08_SPEC0200_SEGDEFAULT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>naop_5m</name>
+			<operator>OP08_SPEC0200_SEGDEFAULT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>naop_5m_nr</name>
+			<operator>OP08_SPEC0200_SEGDEFAULT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>naop_dsds</name>
+			<operator>OP07_SPEC0407_SEGDEFAULT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>naop_dsds_nr</name>
+			<operator>OP07_SPEC0407_SEGDEFAULT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>op20</name>
+			<operator>OP20_SPEC0200_SEGDEFAULT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>op236</name>
+			<operator>OP236_SPEC0200_SEGDEFAULT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>op236_nr</name>
+			<operator>OP236_SPEC0200_SEGDEFAULT</operator>
+		</proj_item>
+		<proj_item index="0">
+			<name>op276</name>
+			<operator>OP276_SPEC0200_SEGDEFAULT</operator>
+		</proj_item>
+	</proj_info>
+</runtime_switchable_config>

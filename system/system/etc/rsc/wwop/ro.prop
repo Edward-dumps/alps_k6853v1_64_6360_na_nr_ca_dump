@@ -1,0 +1,6 @@
+ro.vendor.mtk_skip_pkg_file=ww_skip_pkg.txt
+ro.vendor.mtk_cta_set=0
+ro.mediatek.rsc_name=wwop
+ro.sys.current_rsc_path=/system/etc/rsc/wwop
+ro.product.current_rsc_path=/product/etc/rsc/wwop
+ro.sys_ext.current_rsc_path=/system/system_ext/etc/rsc/wwop

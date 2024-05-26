@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<address_login>http://ota.mediatek.com/fota/download/login.php</address_login>
+	<address_check_version>http://ota.mediatek.com/fota/download/checkversion.php</address_check_version>
+	<address_download_full>http://ota.mediatek.com/fota/download/downloadfullota.php</address_download_full>
+	<address_download_delta>http://ota.mediatek.com/fota/download/download.php</address_download_delta> 
+</properties>
