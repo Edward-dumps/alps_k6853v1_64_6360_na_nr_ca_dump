@@ -1,0 +1,14 @@
+# sys_mssi_64_ww_armv82-userdebug 12 SP1A.210812.016 202110242000 dev-keys
+- manufacturer: alps
+- platform: mt6853
+- codename: k6853v1_64_6360_na_nr_ca
+- flavor: sys_mssi_64_ww_armv82-userdebug
+- release: 12
+- id: SP1A.210812.016
+- incremental: 202110242000
+- tags: dev-keys
+- fingerprint: alps/vnd_k6853v1_64_6360_na_nr_ca/k6853v1_64_6360_na_nr_ca:12/SP1A.210812.016/202110242000:userdebug/dev-keys
+- is_ab: true
+- brand: alps
+- branch: sys_mssi_64_ww_armv82-userdebug-12-SP1A.210812.016-202110242000-dev-keys
+- repo: alps_k6853v1_64_6360_na_nr_ca_dump
