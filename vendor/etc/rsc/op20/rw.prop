@@ -1,0 +1,16 @@
+persist.vendor.radio.msimmode=ss
+persist.vendor.mims_support=1
+persist.vendor.radio.smart.data.switch=0
+persist.vendor.radio.mtk_ps2_rat=W/G
+persist.vendor.operator.optr=OP20
+persist.vendor.operator.spec=SPEC0200
+persist.vendor.operator.seg=SEGDEFAULT
+persist.vendor.radio.mtk_dsbp_support=0
+persist.vendor.volte_support=1
+persist.vendor.mtk.volte.enable=1
+persist.vendor.mtk_wfc_support=1
+persist.vendor.mtk.wfc.enable=1
+persist.vendor.vilte_support=0
+persist.vendor.mtk.ims.video.enable=0
+persist.vendor.viwifi_support=0
+persist.vendor.mtk_rcs_ua_support=0

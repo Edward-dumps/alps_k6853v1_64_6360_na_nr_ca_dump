@@ -1,0 +1,6 @@
+service PPLAgent /vendor/bin/ppl_agent
+    interface vendor.mediatek.hardware.pplagent@1.0::IPplAgent default
+    class hal
+    oneshot
+    user system
+    group system cache
